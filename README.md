@@ -1,4 +1,4 @@
 # hello-world
-First repository
+Hey y'all,
 
-Just made my first branch and ready for my first commit.
+I have been programming since I was 8 on my commodore 64.
